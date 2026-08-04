@@ -8,9 +8,5 @@
 // Em seguida, crie outra função chamada descriptografarMensagem() capaz de
 // recuperar o texto original.
 
-function criptografarMensagem($texto, $deslocamento) {
+function criptografarMensagem()
 
-    $resultado = '';
-    $tamanho = mb_strlen($texto); // mb_strlen serve pra suportar caracteres especiais e acentos
-
-}
